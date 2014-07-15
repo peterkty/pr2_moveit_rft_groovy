@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /mit/peterkty/pr2data/pr2_new2.urdf
+  SRDF:
+    relative_path: config/pr2.srdf
+  CONFIG:
+    generated_timestamp: 1405453328
